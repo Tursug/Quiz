@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620635307213",
+    "firebase_url": "https://quiz-key-quest.firebaseio.com",
+    "project_id": "quiz-key-quest",
+    "storage_bucket": "quiz-key-quest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620635307213:android:6b7b40fb9b6e8cd0a47d84",
+        "android_client_info": {
+          "package_name": "com.rockstarrooster.quizkeyquest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620635307213-cjf4j7tv9g54cqd7ct9tq5tbsh3sfj0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ERMxycJjrniCKJte2aGoD4NMs9Rw0yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620635307213-cjf4j7tv9g54cqd7ct9tq5tbsh3sfj0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
